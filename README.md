@@ -14,14 +14,14 @@ Skills: C/C++/Python
 <br />
 <br />
 <a href="https://leetcode.com/sagorahammed/">
-   <img src="https://raw.githubusercontent.com/Sagor-Ahammed/ct-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a>
 
 </a>
 <br />
 <br />
 <a href="https://codeforces.com/profile/sagorahm25">
-   <img src="https://raw.githubusercontent.com/Sagor-Ahammed/ct-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/sagor-ahammed/ct-stats/main/output/max_rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Sagor-Ahammed&label=Profile%20views&color=0e75b6&style=flat" alt="sahorahm25" />
 <b>&#128200; Competitive Programming</b>
