@@ -23,7 +23,7 @@ Skills: C/C++/Python
 <a href="https://codeforces.com/profile/sagorahm25">
    <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
+<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="sahorahm25" />
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
