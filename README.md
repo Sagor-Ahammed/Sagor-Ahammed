@@ -14,7 +14,7 @@ Skills: C/C++/Python
 <br />
 <br />
 <a href="https://leetcode.com/sagorahammed/">
-   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/Sagor-Ahammed/ct-stats/main/output/max_rating.svg" />
 </a>
 
 </a>
