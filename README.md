@@ -15,13 +15,3 @@ Skills: C/C++/Python
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
 
-<br />
-<br />
----
-  ### :zap: GitHub Stats
-  <br/>
-  <img align="center" alt="Sagor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sagor-Ahammed&show_icons=true&theme=tokyonight" />
-<br />
----
-  
-  <img align="center"  alt="Sagor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagor-Ahammed&show_icons=true" />
