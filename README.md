@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagor</h1>
 <h3 align="center">I am a programmer</h3>
 
-<p align="left"> <img src="C:\Users\HP\Downloads\Video" alt="sagorahammed" /> </p>
+<p align="left"> <img src="C:\Users\HP\Downloads\blue.jpg" alt="sagorahammed" /> </p>
 
 - 🌱 I’m currently learning **Django**
 
