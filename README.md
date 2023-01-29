@@ -43,9 +43,5 @@ Skills: C / C++ / Python/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagor-Ahammed&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Sagor-Ahammed)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sagor-Ahammed)  
-
- 
 
