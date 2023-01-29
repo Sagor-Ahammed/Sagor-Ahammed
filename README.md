@@ -48,6 +48,6 @@ Skills: C / C++ / Python/ HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sagor-Ahammed)  
 
-![Profile views](https://gpvc.arturio.dev/Sagor-Ahammed)  
+ 
 
 
