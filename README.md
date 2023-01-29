@@ -1,8 +1,12 @@
-[![MasterHead](https://www.canva.com/design/DAFX2KNam-Q/tLfPXIpGtmJqFDaKvxlsnA/edit)](https://sagorahammed.io)
-<h1 align="center">Hi 👋, I'm Sagor</h1>
+[![MasterHead](https://www.canva.com/design/DAFX2KNam-Q/tLfPXIpGtmJqFDaKvxlsnA/edit)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Sagor Ahammed</h1>
 <h3 align="center">I am a programmer</h3>
 
-<p align="left"> <img src="https://www.canva.com/design/DAFX2KNam-Q/tLfPXIpGtmJqFDaKvxlsnA/edit" /> </p>
+
+(img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/folders/1eeVxCZ_X-2U9NFsvha9jxlyNC5BBvhpT")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagorahammed&label=Profile%20views&color=0e75b6&style=flat" alt="sagorahammed" /> </p>
+
+- 🔭 I’m currently working on [E-Commerce shop](https://online-shop-s.netlify.app/)
 
 - 🌱 I’m currently learning **Django**
 
@@ -28,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagorahammed&show_icons=true&locale=en" alt="sagorahammed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagorahammed&" alt="sagorahammed" /></p>
+
