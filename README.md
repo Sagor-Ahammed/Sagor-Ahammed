@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagor</h1>
 <h3 align="center">I am a programmer</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/170_EK9HMMKWrCw9MLxqXKvlQBuwZC1lf/view?usp=sharing" alt="sagorahammed" /> </p>
+<p align="left"> <img src="https://www.canva.com/design/DAFX2KNam-Q/tLfPXIpGtmJqFDaKvxlsnA/edit" /> </p>
 
 - 🌱 I’m currently learning **Django**
 
